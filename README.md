@@ -23,7 +23,7 @@ The project is developed conforming to the conventional standards. Thus, most of
 
 
 ## Future Developments
-- The algorithm currently doesn't account for the unbalanced supply and demand case. The extension to which should be pretty starightforward.
+- The algorithm currently doesn't account for the unbalanced supply and demand case. The extension to which should be pretty straightforward.
 
 
 ### Alternatives for Testing
@@ -46,4 +46,4 @@ The project is developed conforming to the conventional standards. Thus, most of
 
 
 ### Remarks
-- Thinking of algorithms and data structures to implement these methods was perhaps the most fun part. If you are a student, I would sincerely encourage you to come up with your own implementation and compare with this one only for referece.
+- Thinking of algorithms and data structures to implement these methods was perhaps the most fun part. If you are a student, I would sincerely encourage you to come up with your own implementation and compare with this one only for reference.
